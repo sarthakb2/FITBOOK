@@ -1,0 +1,1661 @@
+{
+    "Project Name": "SIH Hackathon",
+    "States and Union territories":{
+        "Andaman and Nicobar Islands": {
+            "cities": {
+      "Diglipur": {
+        "postal_code": "744202"
+      },
+      "Mayabunder": {
+        "postal_code": "744204"
+      },
+      "Port Blair": {
+        "postal_code": "744101 - 744103"
+      },
+      "Rangat": {
+        "postal_code": "744205"
+      }
+    },
+          "postal_code": "744101 - 744206"
+        },
+        "Andhra Pradesh": {
+            "cities": {
+      "Amaravati": {
+        "postal_code": "522020 - 522230"
+      },
+      "Anantapur": {
+        "postal_code": "515001 - 515004"
+      },
+      "Chittoor": {
+        "postal_code": "517001 - 517004"
+      },
+      "Guntur": {
+        "postal_code": "522001 - 522006"
+      },
+      "Hyderabad": {
+        "postal_code": "500001 - 500089"
+      },
+      "Kadapa": {
+        "postal_code": "516001 - 516004"
+      },
+      "Kakinada": {
+        "postal_code": "533001 - 533006"
+      },
+      "Kurnool": {
+        "postal_code": "518001 - 518006"
+      },
+      "Nellore": {
+        "postal_code": "524001 - 524004"
+      },
+      "Rajahmundry": {
+        "postal_code": "533101 - 533107"
+      },
+      "Tirupati": {
+        "postal_code": "517501 - 517507"
+      },
+      "Vijayawada": {
+        "postal_code": "520001 - 520015"
+      },
+      "Visakhapatnam": {
+        "postal_code": "530001 - 530047"
+      }
+    },
+          "postal_code": "500001 - 534995"
+        },
+     "Arunachal Pradesh": {
+      "cities": {
+            "Itanagar": {
+            "postal_code": "791111 - 791113"
+        },
+            "Naharlagun": {
+        "postal_code": "791110"
+        },
+        "Pasighat": {
+            "postal_code": "791102"
+        },
+                "Tawang": {
+                  "postal_code": "790104"
+                },
+                "Tezu": {
+                  "postal_code": "792001"
+                },
+                "Ziro": {
+                  "postal_code": "791120"
+                }
+              },
+          "postal_code": "791001 - 792123"
+        },
+        "Assam": {
+            "cities": {
+      "Dibrugarh": {
+        "postal_code": "786001 - 786005"
+      },
+      "Guwahati": {
+        "postal_code": "781001 - 781039"
+      },
+      "Jorhat": {
+        "postal_code": "785001 - 785007"
+      },
+      "Karimganj": {
+        "postal_code": "788710 - 788713"
+      },
+      "Nagaon": {
+        "postal_code": "782001 - 782003"
+      },
+      "Sibsagar": {
+        "postal_code": "785640 - 785642"
+      },
+      "Silchar": {
+        "postal_code": "788001 - 788007"
+      },
+      "Tezpur": {
+        "postal_code": "784001 - 784003"
+      },
+      "Tinsukia": {
+        "postal_code": "786125 - 786126"
+      }
+    },
+          "postal_code": "781001 - 788931"
+        },
+        "Bihar": {
+            "cities": {
+      "Ara": {
+        "postal_code": "802301 - 802302"
+      },
+      "Begusarai": {
+        "postal_code": "851101 - 851115"
+      },
+      "Bhagalpur": {
+        "postal_code": "812001 - 812007"
+      },
+      "Bihar Sharif": {
+        "postal_code": "803101 - 803118"
+      },
+      "Darbhanga": {
+        "postal_code": "846001 - 846004"
+      },
+      "Gaya": {
+        "postal_code": "823001 - 823004"
+      },
+      "Katihar": {
+        "postal_code": "854105 - 854107"
+      },
+      "Muzaffarpur": {
+        "postal_code": "842001 - 842002"
+      }
+    },
+          "postal_code": "800001 - 855117"
+        },
+        "Chandigarh": {
+            "cities": {
+      "Chandigarh": {
+        "postal_code": "160001 - 160036"
+      }
+    },
+          "postal_code": "160001 - 160036"
+        },
+        "Chhattisgarh": {
+            "cities": {
+      "Bilaspur": {
+        "postal_code": "495001 - 495005"
+      },
+      "Durg": {
+        "postal_code": "491001 - 491004"
+      },
+      "Raipur": {
+        "postal_code": "492001 - 492005"
+      }
+    },
+          "postal_code": "490001 - 494661"
+        },
+        "Dadra and Nagar Haveli and Daman and Diu": {
+            "cities": {
+                "Daman": {
+                  "postal_code": "396210 - 396215"
+                },
+                "Diu": {
+                  "postal_code": "362520"
+                },
+                "Silvassa": {
+                  "postal_code": "396230 - 396240"
+                }
+              },
+          "postal_code": "396210 - 396240"
+        },
+        "Delhi": {
+            "cities": {
+      "Connaught Place": {
+        "postal_code": "110001"
+      },
+      "Dwarka": {
+        "postal_code": "110075 - 110077"
+      },
+      "New Delhi": {
+        "postal_code": "110001 - 110005"
+      },
+      "Rohini": {
+        "postal_code": "110085"
+      }
+    },
+          "postal_code": "110001 - 110098"
+        },
+        "Goa": {
+            "cities": {
+      "Margao": {
+        "postal_code": "403601 - 403602"
+      },
+      "Panaji": {
+        "postal_code": "403001 - 403002"
+      },
+      "Vasco da Gama": {
+        "postal_code": "403802 - 403803"
+      }
+    },
+          "postal_code": "403001 - 403806"
+        },
+        "Gujarat": {
+            "cities": {
+      "Ahmedabad": {
+        "postal_code": "380001 - 380003"
+      },
+      "Surat": {
+        "postal_code": "395001 - 395003"
+      },
+      "Vadodara": {
+        "postal_code": "390001 - 390003"
+      }
+    },
+          "postal_code": "360001 - 394681"
+        },
+        "Haryana": {
+            "cities": {
+      "Ambala": {
+        "postal_code": "133001 - 133002"
+      },
+      "Faridabad": {
+        "postal_code": "121001 - 121002"
+      },
+      "Gurugram": {
+        "postal_code": "122001 - 122002"
+      },
+      "Panchkula": {
+        "postal_code": "134109 - 134112"
+      }
+    },
+          "postal_code": "120001 - 135133"
+        },
+        "Himachal Pradesh": {
+            "cities": {
+      "Dharamshala": {
+        "postal_code": "176215"
+      },
+      "Kullu": {
+        "postal_code": "175101"
+      },
+      "Manali": {
+        "postal_code": "175131"
+      },
+      "Shimla": {
+        "postal_code": "171001 - 171002"
+      }
+    },
+          "postal_code": "171001 - 176125"
+        },
+        "Jammu and Kashmir": {
+    "cities": {
+      "Anantnag": {
+        "postal_code": "192101 - 192129"
+      },
+      "Baramulla": {
+        "postal_code": "193101 - 193103"
+      },
+      "Doda": {
+        "postal_code": "182202 - 182221"
+      },
+      "Gulmarg": {
+        "postal_code": "193403"
+      },
+      "Jammu": {
+        "postal_code": "180001 - 180015"
+      },
+      "Kargil": {
+        "postal_code": "194103 - 194105"
+      },
+      "Kathua": {
+        "postal_code": "184101 - 184104"
+      },
+      "Kupwara": {
+        "postal_code": "193222 - 193224"
+      },
+      "Leh": {
+        "postal_code": "194101 - 194104"
+      },
+      "Poonch": {
+        "postal_code": "185101 - 185102"
+      },
+      "Pulwama": {
+        "postal_code": "192301 - 192305"
+      },
+      "Rajouri": {
+        "postal_code": "185131 - 185133"
+      },
+      "Samba": {
+        "postal_code": "184121 - 184122"
+      },
+      "Srinagar": {
+        "postal_code": "190001 - 190025"
+      },
+      "Udhampur": {
+        "postal_code": "182101 - 182126"
+      }
+    },
+    "postal_code": "180001 - 194105"
+  },
+  "Jharkhand": {
+    "cities": {
+      "Bokaro": {
+        "postal_code": "827001 - 827013"
+      },
+      "Chaibasa": {
+        "postal_code": "833201 - 833202"
+      },
+      "Daltonganj": {
+        "postal_code": "822101 - 822102"
+      },
+      "Deoghar": {
+        "postal_code": "814112 - 814117"
+      },
+      "Dhanbad": {
+        "postal_code": "826001 - 826005"
+      },
+      "Dumka": {
+        "postal_code": "814101 - 814103"
+      },
+      "Giridih": {
+        "postal_code": "815301 - 815302"
+      },
+      "Hazaribagh": {
+        "postal_code": "825301 - 825303"
+      },
+      "Jamshedpur": {
+        "postal_code": "831001 - 831014"
+      },
+      "Koderma": {
+        "postal_code": "825410 - 825411"
+      },
+      "Latehar": {
+        "postal_code": "829206 - 829207"
+      },
+      "Palamu": {
+        "postal_code": "822101 - 822122"
+      },
+      "Ranchi": {
+        "postal_code": "834001 - 834010"
+      },
+      "Sahibganj": {
+        "postal_code": "816109 - 816110"
+      },
+      "Seraikela": {
+        "postal_code": "833219 - 833220"
+      },
+      "Simdega": {
+        "postal_code": "835223 - 835224"
+      }
+    },
+    "postal_code": "800001 - 835324"
+  },
+  "Karnataka": {
+    "cities": {
+      "Bagalkot": {
+        "postal_code": "587101 - 587103"
+      },
+      "Bangalore": {
+        "postal_code": "560001 - 560100"
+      },
+      "Belgaum": {
+        "postal_code": "590001 - 590020"
+      },
+      "Bellary": {
+        "postal_code": "583101 - 583104"
+      },
+      "Bidar": {
+        "postal_code": "585401 - 585403"
+      },
+      "Bijapur": {
+        "postal_code": "586101 - 586109"
+      },
+      "Chamarajanagar": {
+        "postal_code": "571313 - 571316"
+      },
+      "Chikkaballapur": {
+        "postal_code": "562101 - 562104"
+      },
+      "Chikkamagaluru": {
+        "postal_code": "577101 - 577102"
+      },
+      "Dakshina Kannada": {
+        "postal_code": "575001 - 575030"
+      }
+    },
+          "postal_code": "560001 - 588664"
+        },
+        "Kerala": {
+    "cities": {
+      "Alappuzha": {
+        "postal_code": "688001 - 688013"
+      },
+      "Ernakulam": {
+        "postal_code": "682001 - 682042"
+      },
+      "Idukki": {
+        "postal_code": "685501 - 685609"
+      },
+      "Kannur": {
+        "postal_code": "670001 - 670703"
+      },
+      "Kasaragod": {
+        "postal_code": "671121 - 671323"
+      },
+      "Kollam": {
+        "postal_code": "691001 - 691013"
+      },
+      "Kottayam": {
+        "postal_code": "686001 - 686039"
+      },
+      "Kozhikode": {
+        "postal_code": "673001 - 673655"
+      },
+      "Malappuram": {
+        "postal_code": "676501 - 676553"
+      },
+      "Palakkad": {
+        "postal_code": "678001 - 678623"
+      },
+      "Pathanamthitta": {
+        "postal_code": "689645 - 689699"
+      },
+      "Thiruvananthapuram": {
+        "postal_code": "695001 - 695615"
+      },
+      "Thrissur": {
+        "postal_code": "680001 - 680751"
+      },
+      "Wayanad": {
+        "postal_code": "673121 - 673593"
+      }
+    },
+    "postal_code": "670001 - 695615"
+  },
+  "Ladakh": {
+    "cities": {
+      "Kargil": {
+        "postal_code": "194103 - 194105"
+      },
+      "Leh": {
+        "postal_code": "194101 - 194104"
+      },
+      "Nubra": {
+        "postal_code": "194401 - 194402"
+      },
+      "Pangong": {
+        "postal_code": "194404"
+      },
+      "Zanskar": {
+        "postal_code": "194302 - 194303"
+      }
+    },
+    "postal_code": "194101 - 194404"
+  },
+  "Lakshadweep": {
+    "cities": {
+      "Amini": {
+        "postal_code": "682552"
+      },
+      "Androth": {
+        "postal_code": "682551"
+      },
+      "Kadmat": {
+        "postal_code": "682553"
+      },
+      "Kalpeni": {
+        "postal_code": "682554"
+      },
+      "Kavaratti": {
+        "postal_code": "682555"
+      },
+      "Minicoy": {
+        "postal_code": "682559"
+      }
+    },
+        "postal_code": "682551 - 682559"
+        },
+        "Madhya Pradesh": {
+            "cities": {
+              "Alirajpur": {
+                "postal_code": "457887 - 457888"
+              },
+              "Anuppur": {
+                "postal_code": "484224 - 484334"
+              },
+              "Ashoknagar": {
+                "postal_code": "473331 - 473335"
+              },
+              "Balaghat": {
+                "postal_code": "481001 - 481337"
+              },
+              "Barwani": {
+                "postal_code": "451551 - 451666"
+              },
+              "Betul": {
+                "postal_code": "460001 - 460665"
+              },
+              "Bhind": {
+                "postal_code": "477001 - 477335"
+              },
+              "Bhopal": {
+                "postal_code": "462001 - 462052"
+              },
+              "Burhanpur": {
+                "postal_code": "450331 - 450338"
+              },
+              "Chhatarpur": {
+                "postal_code": "471001 - 471515"
+              },
+              "Chhindwara": {
+                "postal_code": "480001 - 480447"
+              },
+              "Damoh": {
+                "postal_code": "470661 - 470881"
+              },
+              "Datia": {
+                "postal_code": "475661 - 475686"
+              },
+              "Dewas": {
+                "postal_code": "455001 - 455336"
+              },
+              "Dhar": {
+                "postal_code": "454001 - 454774"
+              },
+              "Dindori": {
+                "postal_code": "481880 - 481882"
+              },
+              "Guna": {
+                "postal_code": "473001 - 473513"
+              },
+              "Gwalior": {
+                "postal_code": "474001 - 474055"
+              },
+              "Harda": {
+                "postal_code": "461331 - 461338"
+              },
+              "Hoshangabad": {
+                "postal_code": "461001 - 461668"
+              },
+              "Indore": {
+                "postal_code": "452001 - 452045"
+              },
+              "Jabalpur": {
+                "postal_code": "482001 - 482068"
+              },
+              "Jhabua": {
+                "postal_code": "457661 - 457779"
+              },
+              "Katni": {
+                "postal_code": "483501 - 483523"
+              },
+              "Khandwa": {
+                "postal_code": "450001 - 450337"
+              },
+              "Khargone": {
+                "postal_code": "451001 - 451446"
+              },
+              "Mandla": {
+                "postal_code": "481661 - 481776"
+              },
+              "Mandsaur": {
+                "postal_code": "458001 - 458558"
+              },
+              "Morena": {
+                "postal_code": "476001 - 476554"
+              },
+              "Narsinghpur": {
+                "postal_code": "487001 - 487551"
+              },
+              "Neemuch": {
+                "postal_code": "458441 - 458554"
+              },
+              "Panna": {
+                "postal_code": "488001 - 488333"
+              },
+              "Raisen": {
+                "postal_code": "464551 - 464669"
+              },
+              "Rajgarh": {
+                "postal_code": "465661 - 465697"
+              },
+              "Ratlam": {
+                "postal_code": "457001 - 457337"
+              },
+              "Rewa": {
+                "postal_code": "486001 - 486451"
+              },
+              "Sagar": {
+                "postal_code": "470001 - 470338"
+              },
+              "Satna": {
+                "postal_code": "485001 - 485881"
+              },
+              "Sehore": {
+                "postal_code": "466001 - 466446"
+              },
+              "Seoni": {
+                "postal_code": "480661 - 480882"
+              },
+              "Shahdol": {
+                "postal_code": "484001 - 484774"
+              },
+              "Shajapur": {
+                "postal_code": "465001 - 465446"
+              },
+              "Sheopur": {
+                "postal_code": "476337 - 476355"
+              },
+              "Shivpuri": {
+                "postal_code": "473551 - 473792"
+              }
+            },
+          "postal_code": "450001 - 486886"
+        },
+        "Maharashtra": {
+            "cities": {
+              "Ahmednagar": {
+                "postal_code": "414001 - 414605"
+              },
+              "Akola": {
+                "postal_code": "444001 - 444511"
+              },
+              "Amravati": {
+                "postal_code": "444601 - 444806"
+              },
+              "Aurangabad": {
+                "postal_code": "431001 - 431136"
+              },
+              "Beed": {
+                "postal_code": "431122 - 431517"
+              },
+              "Bhandara": {
+                "postal_code": "441904 - 441924"
+              },
+              "Buldhana": {
+                "postal_code": "443001 - 443404"
+              },
+              "Chandrapur": {
+                "postal_code": "442401 - 442908"
+              },
+              "Dhule": {
+                "postal_code": "424001 - 424311"
+              },
+              "Gadchiroli": {
+                "postal_code": "442605 - 442908"
+              },
+              "Gondia": {
+                "postal_code": "441601 - 441614"
+              },
+              "Hingoli": {
+                "postal_code": "431513 - 431705"
+              },
+              "Jalgaon": {
+                "postal_code": "425001 - 425508"
+              },
+              "Jalna": {
+                "postal_code": "431203 - 431504"
+              },
+              "Kolhapur": {
+                "postal_code": "416001 - 416234"
+              },
+              "Latur": {
+                "postal_code": "413512 - 413531"
+              },
+              "Mumbai": {
+                "postal_code": "400001 - 400104"
+              },
+              "Nagpur": {
+                "postal_code": "440001 - 440037"
+              },
+              "Nanded": {
+                "postal_code": "431601 - 431805"
+              },
+              "Nandurbar": {
+                "postal_code": "425412 - 425417"
+              },
+              "Nashik": {
+                "postal_code": "422001 - 422214"
+              },
+              "Osmanabad": {
+                "postal_code": "413501 - 413604"
+              },
+              "Palghar": {
+                "postal_code": "401102 - 401606"
+              },
+              "Parbhani": {
+                "postal_code": "431401 - 431517"
+              },
+              "Pune": {
+                "postal_code": "411001 - 411063"
+              },
+              "Raigad": {
+                "postal_code": "402201 - 402306"
+              },
+              "Ratnagiri": {
+                "postal_code": "415612 - 415820"
+              },
+              "Sangli": {
+                "postal_code": "416416 - 416436"
+              },
+              "Satara": {
+                "postal_code": "415001 - 415524"
+              },
+              "Sindhudurg": {
+                "postal_code": "416510 - 416529"
+              },
+              "Solapur": {
+                "postal_code": "413001 - 413255"
+              },
+              "Thane": {
+                "postal_code": "400601 - 401210"
+              },
+              "Wardha": {
+                "postal_code": "442001 - 442306"
+              },
+              "Washim": {
+                "postal_code": "444505 - 444510"
+              },
+              "Yavatmal": {
+                "postal_code": "445001 - 445402"
+              }
+            },
+            "postal_code": "400001 - 443908"
+        },
+        "Manipur": {
+    "cities": {
+      "Bishnupur": {
+        "postal_code": "795126 - 795128"
+      },
+      "Chandel": {
+        "postal_code": "795127 - 795128"
+      },
+      "Churachandpur": {
+        "postal_code": "795128 - 795133"
+      },
+      "Imphal East": {
+        "postal_code": "795001 - 795010"
+      },
+      "Imphal West": {
+        "postal_code": "795001 - 795004"
+      },
+      "Jiribam": {
+        "postal_code": "795116 - 795117"
+      },
+      "Kakching": {
+        "postal_code": "795103 - 795104"
+      },
+      "Kamjong": {
+        "postal_code": "795145 - 795146"
+      },
+      "Kangpokpi": {
+        "postal_code": "795129 - 795136"
+      },
+      "Noney": {
+        "postal_code": "795147 - 795148"
+      },
+      "Pherzawl": {
+        "postal_code": "795143 - 795144"
+      },
+      "Senapati": {
+        "postal_code": "795106 - 795107"
+      },
+      "Tamenglong": {
+        "postal_code": "795141 - 795142"
+      },
+      "Tengnoupal": {
+        "postal_code": "795131 - 795132"
+      },
+      "Thoubal": {
+        "postal_code": "795138 - 795139"
+      },
+      "Ukhrul": {
+        "postal_code": "795142 - 795145"
+      }
+    },
+    "postal_code": "795001 - 795149"
+  },
+  "Meghalaya": {
+    "cities": {
+      "East Garo Hills": {
+        "postal_code": "794101 - 794111"
+      },
+      "East Jaintia Hills": {
+        "postal_code": "793160 - 793161"
+      },
+      "East Khasi Hills": {
+        "postal_code": "793001 - 793021"
+      },
+      "North Garo Hills": {
+        "postal_code": "794109 - 794110"
+      },
+      "Ri Bhoi": {
+        "postal_code": "793101 - 793103"
+      },
+      "South Garo Hills": {
+        "postal_code": "794105 - 794106"
+      },
+      "South West Garo Hills": {
+        "postal_code": "794107 - 794108"
+      },
+      "South West Khasi Hills": {
+        "postal_code": "793106 - 793107"
+      },
+      "West Garo Hills": {
+        "postal_code": "794001 - 794008"
+      },
+      "West Jaintia Hills": {
+        "postal_code": "793120 - 793121"
+      },
+      "West Khasi Hills": {
+        "postal_code": "793113 - 793114"
+      }
+    },
+    "postal_code": "793001 - 794115"
+  },
+  "Mizoram": {
+    "cities": {
+      "Aizawl": {
+        "postal_code": "796001 - 796012"
+      },
+      "Champhai": {
+        "postal_code": "796321 - 796322"
+      },
+      "Hnahthial": {
+        "postal_code": "796571 - 796572"
+      },
+      "Khawzawl": {
+        "postal_code": "796310 - 796311"
+      },
+      "Kolasib": {
+        "postal_code": "796081 - 796082"
+      },
+      "Lawngtlai": {
+        "postal_code": "796891 - 796892"
+      },
+      "Lunglei": {
+        "postal_code": "796701 - 796702"
+      },
+      "Mamit": {
+        "postal_code": "796441 - 796442"
+      },
+      "Saiha": {
+        "postal_code": "796901 - 796902"
+      },
+      "Saitual": {
+        "postal_code": "796261 - 796262"
+      },
+      "Serchhip": {
+        "postal_code": "796181 - 796182"
+      }
+    },
+    "postal_code": "796001 - 796751"
+  },
+        "Nagaland": {
+    "cities": {
+      "Dimapur": {
+        "postal_code": "797112 - 797115"
+      },
+      "Kiphire": {
+        "postal_code": "798611 - 798612"
+      },
+      "Kohima": {
+        "postal_code": "797001 - 797005"
+      },
+      "Longleng": {
+        "postal_code": "798625 - 798626"
+      },
+      "Mokokchung": {
+        "postal_code": "798601 - 798605"
+      },
+      "Mon": {
+        "postal_code": "798621 - 798622"
+      },
+      "Noklak": {
+        "postal_code": "798627 - 798628"
+      },
+      "Peren": {
+        "postal_code": "797130 - 797131"
+      },
+      "Phek": {
+        "postal_code": "797108 - 797109"
+      },
+      "Tuensang": {
+        "postal_code": "798581 - 798585"
+      },
+      "Wokha": {
+        "postal_code": "797111 - 797112"
+      },
+      "Zunheboto": {
+        "postal_code": "798620 - 798621"
+      }
+    },
+    "postal_code": "797001 - 798627"
+  },
+  "Odisha": {
+    "cities": {
+      "Angul": {
+        "postal_code": "759122 - 759132"
+      },
+      "Balangir": {
+        "postal_code": "767001 - 767032"
+      },
+      "Balasore": {
+        "postal_code": "756001 - 756045"
+      },
+      "Bargarh": {
+        "postal_code": "768028 - 768038"
+      },
+      "Bhadrak": {
+        "postal_code": "756100 - 756137"
+      },
+      "Boudh": {
+        "postal_code": "762014 - 762017"
+      },
+      "Cuttack": {
+        "postal_code": "753001 - 753030"
+      },
+      "Deogarh": {
+        "postal_code": "768108 - 768109"
+      },
+      "Dhenkanal": {
+        "postal_code": "759001 - 759027"
+      },
+      "Gajapati": {
+        "postal_code": "761200 - 761216"
+      },
+      "Ganjam": {
+        "postal_code": "761001 - 761045"
+      },
+      "Jagatsinghpur": {
+        "postal_code": "754103 - 754134"
+      },
+      "Jajpur": {
+        "postal_code": "755001 - 755038"
+      },
+      "Jharsuguda": {
+        "postal_code": "768201 - 768226"
+      },
+      "Kalahandi": {
+        "postal_code": "766001 - 766031"
+      },
+      "Kandhamal": {
+        "postal_code": "762001 - 762102"
+      },
+      "Kendrapara": {
+        "postal_code": "754211 - 754250"
+      },
+      "Kendujhar": {
+        "postal_code": "758001 - 758047"
+      },
+      "Khordha": {
+        "postal_code": "751001 - 752060"
+      },
+      "Koraput": {
+        "postal_code": "764020 - 764055"
+      },
+      "Malkangiri": {
+        "postal_code": "764045 - 764048"
+      },
+      "Mayurbhanj": {
+        "postal_code": "757001 - 757103"
+      },
+      "Nabarangpur": {
+        "postal_code": "764059 - 764063"
+      },
+      "Nayagarh": {
+        "postal_code": "752069 - 752094"
+      },
+      "Nuapada": {
+        "postal_code": "766105 - 766111"
+      },
+      "Puri": {
+        "postal_code": "752001 - 752046"
+      },
+      "Rayagada": {
+        "postal_code": "765001 - 765025"
+      },
+      "Sambalpur": {
+        "postal_code": "768001 - 768031"
+      },
+      "Sonepur": {
+        "postal_code": "767017 - 767042"
+      },
+      "Sundargarh": {
+        "postal_code": "769001 - 769042"
+      }
+    },
+          "postal_code": "751001 - 767039"
+        },
+        "Puducherry": {
+    "cities": {
+      "Karaikal": {
+        "postal_code": "609601 - 609609"
+      },
+      "Mahe": {
+        "postal_code": "673310 - 673311"
+      },
+      "Puducherry": {
+        "postal_code": "605001 - 605014"
+      },
+      "Yanam": {
+        "postal_code": "533464 - 533465"
+      }
+    },
+    "postal_code": "605001 - 605014"
+  },
+  "Punjab": {
+    "cities": {
+      "Amritsar": {
+        "postal_code": "143001 - 143022"
+      },
+      "Barnala": {
+        "postal_code": "148101 - 148106"
+      },
+      "Bathinda": {
+        "postal_code": "151001 - 151008"
+      },
+      "Faridkot": {
+        "postal_code": "151203 - 151208"
+      },
+      "Fatehgarh Sahib": {
+        "postal_code": "140401 - 140406"
+      },
+      "Fazilka": {
+        "postal_code": "152123 - 152124"
+      },
+      "Ferozepur": {
+        "postal_code": "152001 - 152004"
+      },
+      "Gurdaspur": {
+        "postal_code": "143521 - 143526"
+      },
+      "Hoshiarpur": {
+        "postal_code": "146001 - 146023"
+      },
+      "Jalandhar": {
+        "postal_code": "144001 - 144022"
+      },
+      "Kapurthala": {
+        "postal_code": "144601 - 144606"
+      },
+      "Ludhiana": {
+        "postal_code": "141001 - 141023"
+      },
+      "Malerkotla": {
+        "postal_code": "148023 - 148026"
+      },
+      "Mansa": {
+        "postal_code": "151505 - 151508"
+      },
+      "Moga": {
+        "postal_code": "142001 - 142008"
+      },
+      "Mohali": {
+        "postal_code": "140110 - 140308"
+      },
+      "Muktsar": {
+        "postal_code": "152026 - 152031"
+      },
+      "Nawanshahr": {
+        "postal_code": "144514 - 144517"
+      },
+      "Pathankot": {
+        "postal_code": "145001 - 145025"
+      },
+      "Patiala": {
+        "postal_code": "147001 - 147007"
+      },
+      "Rupnagar": {
+        "postal_code": "140001 - 140108"
+      },
+      "Sangrur": {
+        "postal_code": "148001 - 148026"
+      },
+      "Shahid Bhagat Singh Nagar": {
+        "postal_code": "144514 - 144517"
+      },
+      "Tarn Taran": {
+        "postal_code": "143401 - 143409"
+      }
+    },
+    "postal_code": "140001 - 152116"
+  },
+      "Rajasthan": {
+      "cities": {
+        "Ajmer": {
+          "postal_code": "305001 - 305023"
+        },
+        "Alwar": {
+          "postal_code": "301001 - 301030"
+        },
+        "Banswara": {
+          "postal_code": "327001 - 327025"
+        },
+        "Baran": {
+          "postal_code": "325205 - 325219"
+        },
+        "Barmer": {
+          "postal_code": "344001 - 344026"
+        },
+        "Bharatpur": {
+          "postal_code": "321001 - 321205"
+        },
+        "Bhilwara": {
+          "postal_code": "311001 - 311204"
+        },
+        "Bikaner": {
+          "postal_code": "334001 - 334004"
+        },
+        "Bundi": {
+          "postal_code": "323001 - 323008"
+        },
+        "Chittorgarh": {
+          "postal_code": "312001 - 312025"
+        },
+        "Churu": {
+          "postal_code": "331001 - 331302"
+        },
+        "Dausa": {
+          "postal_code": "303301 - 303327"
+        },
+        "Dholpur": {
+          "postal_code": "328001 - 328021"
+        },
+        "Dungarpur": {
+          "postal_code": "314001 - 314026"
+        },
+        "Hanumangarh": {
+          "postal_code": "335512 - 335526"
+        },
+        "Jaipur": {
+          "postal_code": "302001 - 302047"
+        },
+        "Jaisalmer": {
+          "postal_code": "345001 - 345034"
+        },
+        "Jalore": {
+          "postal_code": "343001 - 343025"
+        },
+        "Jhalawar": {
+          "postal_code": "326001 - 326038"
+        },
+        "Jhunjhunu": {
+          "postal_code": "333001 - 333042"
+        },
+        "Jodhpur": {
+          "postal_code": "342001 - 342026"
+        },
+        "Karauli": {
+          "postal_code": "322241 - 322255"
+        },
+        "Kota": {
+          "postal_code": "324001 - 324009"
+        },
+        "Nagaur": {
+          "postal_code": "341001 - 341503"
+        },
+        "Pali": {
+          "postal_code": "306401 - 306421"
+        },
+        "Pratapgarh": {
+          "postal_code": "312605 - 312615"
+        },
+        "Rajsamand": {
+          "postal_code": "313324 - 313341"
+        },
+        "Sawai Madhopur": {
+          "postal_code": "322001 - 322029"
+        },
+        "Sikar": {
+          "postal_code": "332001 - 332025"
+        },
+        "Sirohi": {
+          "postal_code": "307001 - 307043"
+        },
+        "Sri Ganganagar": {
+          "postal_code": "335001 - 335001"
+        },
+        "Tonk": {
+          "postal_code": "304001 - 304024"
+        },
+        "Udaipur": {
+          "postal_code": "313001 - 313025"
+        }
+      },
+      "postal_code": "302001 - 344021"
+    },
+    "Sikkim": {
+      "cities": {
+        "East Sikkim": {
+          "postal_code": "737101 - 737139"
+        },
+        "Gangtok": {
+          "postal_code": "737101 - 737103"
+        },
+        "Geyzing": {
+          "postal_code": "737111 - 737112"
+        },
+        "Mangan": {
+          "postal_code": "737116 - 737117"
+        },
+        "Namchi": {
+          "postal_code": "737126 - 737127"
+        },
+        "Pakyong": {
+          "postal_code": "737106 - 737107"
+        },
+        "Rangpo": {
+          "postal_code": "737132 - 737133"
+        },
+        "Soreng": {
+          "postal_code": "737121 - 737122"
+        },
+        "West Sikkim": {
+          "postal_code": "737111 - 737122"
+        }
+      },
+      "postal_code": "737101 - 737139"
+},
+        "Tamil Nadu": {
+    "cities": {
+      "Ariyalur": {
+        "postal_code": "621701 - 621713"
+      },
+      "Chennai": {
+        "postal_code": "600001 - 600095"
+      },
+      "Coimbatore": {
+        "postal_code": "641001 - 641045"
+      },
+      "Cuddalore": {
+        "postal_code": "607001 - 607006"
+      },
+      "Dharmapuri": {
+        "postal_code": "636701 - 636705"
+      },
+      "Dindigul": {
+        "postal_code": "624001 - 624005"
+      },
+      "Erode": {
+        "postal_code": "638001 - 638011"
+      },
+      "Kanchipuram": {
+        "postal_code": "631501 - 631552"
+      },
+      "Kanyakumari": {
+        "postal_code": "629001 - 629004"
+      },
+      "Karur": {
+        "postal_code": "639001 - 639006"
+      },
+      "Krishnagiri": {
+        "postal_code": "635001 - 635203"
+      },
+      "Madurai": {
+        "postal_code": "625001 - 625022"
+      },
+      "Nagapattinam": {
+        "postal_code": "611001 - 611003"
+      },
+      "Namakkal": {
+        "postal_code": "637001 - 637003"
+      },
+      "Nilgiris": {
+        "postal_code": "643001 - 643006"
+      },
+      "Perambalur": {
+        "postal_code": "621212 - 621220"
+      },
+      "Pudukkottai": {
+        "postal_code": "622001 - 622004"
+      },
+      "Ramanathapuram": {
+        "postal_code": "623501 - 623523"
+      },
+      "Salem": {
+        "postal_code": "636001 - 636016"
+      },
+      "Sivaganga": {
+        "postal_code": "630561 - 630562"
+      },
+      "Thanjavur": {
+        "postal_code": "613001 - 613009"
+      },
+      "Theni": {
+        "postal_code": "625531 - 625536"
+      },
+      "Thiruvallur": {
+        "postal_code": "602001 - 602024"
+      },
+      "Thiruvarur": {
+        "postal_code": "610001 - 610004"
+      },
+      "Thoothukudi": {
+        "postal_code": "628001 - 628008"
+      },
+      "Tiruchirappalli": {
+        "postal_code": "620001 - 620020"
+      },
+      "Tirunelveli": {
+        "postal_code": "627001 - 627011"
+      },
+      "Tiruppur": {
+        "postal_code": "641601 - 641606"
+      },
+      "Tiruvannamalai": {
+        "postal_code": "606601 - 606611"
+      },
+      "Vellore": {
+        "postal_code": "632001 - 632014"
+      },
+      "Viluppuram": {
+        "postal_code": "605601 - 605602"
+      },
+      "Virudhunagar": {
+        "postal_code": "626001 - 626003"
+      }
+    },
+    "postal_code": "600001 - 641045"
+  },
+  "Telangana": {
+    "cities": {
+      "Adilabad": {
+        "postal_code": "504001 - 504002"
+      },
+      "Bhadradri Kothagudem": {
+        "postal_code": "507101 - 507111"
+      },
+      "Hyderabad": {
+        "postal_code": "500001 - 500049"
+      },
+      "Jagtial": {
+        "postal_code": "505327 - 505338"
+      },
+      "Jangaon": {
+        "postal_code": "506167 - 506201"
+      },
+      "Jayashankar Bhupalpally": {
+        "postal_code": "506169 - 506172"
+      },
+      "Jogulamba Gadwal": {
+        "postal_code": "509125 - 509132"
+      },
+      "Kamareddy": {
+        "postal_code": "503111 - 503122"
+      }
+    },
+          "postal_code": "500001 - 509217"
+        },
+        "Tripura": {
+    "cities": {
+      "Agartala": {
+        "postal_code": "799001 - 799009"
+      },
+      "Ambassa": {
+        "postal_code": "799289 - 799290"
+      },
+      "Bishalgarh": {
+        "postal_code": "799102 - 799103"
+      },
+      "Dharmanagar": {
+        "postal_code": "799250 - 799253"
+      },
+      "Gomati": {
+        "postal_code": "799104 - 799114"
+      },
+      "Kailashahar": {
+        "postal_code": "799277 - 799278"
+      },
+      "Khowai": {
+        "postal_code": "799201 - 799202"
+      },
+      "North Tripura": {
+        "postal_code": "799250 - 799262"
+      },
+      "Sabroom": {
+        "postal_code": "799145 - 799146"
+      },
+      "South Tripura": {
+        "postal_code": "799100 - 799155"
+      },
+      "Udaipur": {
+        "postal_code": "799120 - 799121"
+      },
+      "Unakoti": {
+        "postal_code": "799277 - 799281"
+      },
+      "West Tripura": {
+        "postal_code": "799001 - 799035"
+      }
+    },
+    "postal_code": "799001 - 799277"
+  },
+  "Uttarakhand": {
+    "cities": {
+      "Almora": {
+        "postal_code": "263601 - 263661"
+      },
+      "Bageshwar": {
+        "postal_code": "263642 - 263679"
+      },
+      "Chamoli": {
+        "postal_code": "246424 - 246471"
+      },
+      "Champawat": {
+        "postal_code": "262523 - 262531"
+      },
+      "Dehradun": {
+        "postal_code": "248001 - 248197"
+      },
+      "Haridwar": {
+        "postal_code": "249401 - 249408"
+      },
+      "Nainital": {
+        "postal_code": "263001 - 263002"
+      },
+      "Pauri Garhwal": {
+        "postal_code": "246001 - 246194"
+      },
+      "Pithoragarh": {
+        "postal_code": "262501 - 262531"
+      },
+      "Rudraprayag": {
+        "postal_code": "246171 - 246421"
+      },
+      "Tehri Garhwal": {
+        "postal_code": "249001 - 249181"
+      },
+      "Udham Singh Nagar": {
+        "postal_code": "263140 - 263151"
+      },
+      "Uttarkashi": {
+        "postal_code": "249193 - 249194"
+      }
+    },
+    "postal_code": "248001 - 263679"
+        },
+    "Uttar Pradesh": {
+    "cities": {
+      "Agra": {
+        "postal_code": "282001 - 282010"
+      },
+      "Aligarh": {
+        "postal_code": "202001 - 202141"
+      },
+      "Allahabad": {
+        "postal_code": "211001 - 211019"
+      },
+      "Ambedkar Nagar": {
+        "postal_code": "224122 - 224159"
+      },
+      "Amethi": {
+        "postal_code": "227405 - 227412"
+      },
+      "Amroha": {
+        "postal_code": "244221 - 244236"
+      },
+      "Auraiya": {
+        "postal_code": "206122 - 206135"
+      },
+      "Ayodhya": {
+        "postal_code": "224123 - 224135"
+      },
+      "Azamgarh": {
+        "postal_code": "276001 - 276206"
+      },
+      "Bahraich": {
+        "postal_code": "271801 - 271881"
+      },
+      "Ballia": {
+        "postal_code": "277001 - 277501"
+      },
+      "Banda": {
+        "postal_code": "210001 - 210129"
+      },
+      "Barabanki": {
+        "postal_code": "225001 - 225306"
+      },
+      "Bareilly": {
+        "postal_code": "243001 - 243508"
+      },
+      "Basti": {
+        "postal_code": "272001 - 272194"
+      },
+      "Bijnor": {
+        "postal_code": "246701 - 246762"
+      },
+      "Bulandshahar": {
+        "postal_code": "203001 - 203403"
+      },
+      "Chandauli": {
+        "postal_code": "232104 - 232120"
+      },
+      "Chandausi": {
+        "postal_code": "244412 - 244414"
+      },
+      "Deoria": {
+        "postal_code": "274001 - 274509"
+      },
+      "Etah": {
+        "postal_code": "207001 - 207122"
+      },
+      "Etawah": {
+        "postal_code": "206001 - 206253"
+      },
+      "Faizabad": {
+        "postal_code": "224001 - 224201"
+      },
+      "Farrukhabad": {
+        "postal_code": "209601 - 209625"
+      },
+      "Fatehpur": {
+        "postal_code": "212601 - 212657"
+      },
+      "Firozabad": {
+        "postal_code": "283203 - 283206"
+      },
+      "Gautam Buddha Nagar": {
+        "postal_code": "201301 - 201313"
+      },
+      "Ghaziabad": {
+        "postal_code": "201001 - 201206"
+      },
+      "Ghazipur": {
+        "postal_code": "233001 - 233306"
+      },
+      "Gonda": {
+        "postal_code": "271001 - 271403"
+      },
+      "Gorakhpur": {
+        "postal_code": "273001 - 273209"
+      },
+      "Hapur": {
+        "postal_code": "245101 - 245205"
+      },
+      "Hardoi": {
+        "postal_code": "241001 - 241408"
+      },
+      "Hathras": {
+        "postal_code": "204101 - 204216"
+      },
+      "Jalaun": {
+        "postal_code": "285001 - 285133"
+      },
+      "Jaunpur": {
+        "postal_code": "222001 - 222203"
+      },
+      "Jhansi": {
+        "postal_code": "284001 - 284406"
+      },
+      "Kannauj": {
+        "postal_code": "209725 - 209732"
+      },
+      "Kanpur Dehat": {
+        "postal_code": "209301 - 209306"
+      },
+      "Kanpur Nagar": {
+        "postal_code": "208001 - 208027"
+      },
+      "Kasganj": {
+        "postal_code": "207123 - 207124"
+      },
+      "Kaushambi": {
+        "postal_code": "212213 - 212214"
+      },
+      "Kushinagar": {
+        "postal_code": "274203 - 274305"
+      }
+    },
+          "postal_code": "200001 - 284406"
+        },
+        "West Bengal": {
+    "cities": {
+      "Alipurduar": {
+        "postal_code": "736121 - 736204"
+      },
+      "Bankura": {
+        "postal_code": "722101 - 722206"
+      },
+      "Bardhaman": {
+        "postal_code": "713101 - 713519"
+      },
+      "Birbhum": {
+        "postal_code": "731101 - 731303"
+      },
+      "Cooch Behar": {
+        "postal_code": "736101 - 736179"
+      },
+      "Dakshin Dinajpur": {
+        "postal_code": "733101 - 733207"
+      },
+      "Darjeeling": {
+        "postal_code": "734101 - 734436"
+      },
+      "Hooghly": {
+        "postal_code": "712101 - 712706"
+      },
+      "Howrah": {
+        "postal_code": "711101 - 711414"
+      },
+      "Jalpaiguri": {
+        "postal_code": "735101 - 735224"
+      },
+      "Jhargram": {
+        "postal_code": "721101 - 721507"
+      },
+      "Kolkata": {
+        "postal_code": "700001 - 700164"
+      },
+      "Malda": {
+        "postal_code": "732101 - 732216"
+      },
+      "Murshidabad": {
+        "postal_code": "742101 - 742406"
+      },
+      "Nadia": {
+        "postal_code": "741101 - 741507"
+      },
+      "North 24 Parganas": {
+        "postal_code": "700120 - 743294"
+      },
+      "Paschim Bardhaman": {
+        "postal_code": "713101 - 713364"
+      },
+      "Paschim Medinipur": {
+        "postal_code": "721101 - 721641"
+      },
+      "Purba Bardhaman": {
+        "postal_code": "713101 - 713519"
+      },
+      "Purba Medinipur": {
+        "postal_code": "721401 - 721659"
+      },
+      "Purulia": {
+        "postal_code": "723101 - 723212"
+      },
+      "South 24 Parganas": {
+        "postal_code": "700103 - 743610"
+      },
+      "Uttar Dinajpur": {
+        "postal_code": "733101 - 733207"
+      }
+    },
+    "postal_code": "700001 - 732216"
+        }
+      }
+}
