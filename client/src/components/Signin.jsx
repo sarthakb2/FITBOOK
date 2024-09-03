@@ -13,8 +13,8 @@ const signin = () => {
               Please Enter Your Credentials
             </h1>
 
-            <input type="text" placeholder='Email' className='bg-white-800 border-2 w-64 text-black rounded-lg p-2 m-2 outline-none' />
-            <input type="text" placeholder='Password' className='bg-white-800 border-2 text-black w-64 rounded-lg p-2 m-2 mb-3 outline-none' />
+            <input type="text" placeholder='Email' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
+            <input type="text" placeholder='Password' className='bg-white-800 border-2 text-black w-80 rounded-lg p-2 m-2 mb-3 outline-none' />
             <input type="submit" value="Submit" className=' cursor-pointer  bg-blue-800 text-white text-sm pl-2 pr-2 p-1 m-2 rounded-lg outline-none' />
           </form>
 
