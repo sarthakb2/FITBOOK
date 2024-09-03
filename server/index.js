@@ -4,11 +4,9 @@ dotenv.config();
 import connectToDatabase from "./config/db.js";
 connectToDatabase();
 
-
-
-
-import signup from "./routes/signup.js" ;
-import signin from "./routes/signin.js" ;
+import signup from "./routes/signup.js";
+import signin from "./routes/signin.js";
+import search from "./routes/search.js";
 
 const PORT = process.env.PORT || 3000;
 
@@ -22,8 +20,7 @@ app.get("/", (req, res) => {
 
 app.use("/signup", signup);
 app.use("/signin", signin);
-
-
+app.use("/search", search);
 
 app.listen(PORT, () => {
   console.log("Server Started");

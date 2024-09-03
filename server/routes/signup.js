@@ -8,11 +8,12 @@ router.get("/", (req, res) => {
   res.send("SIGNUP PAGE");
 });
 router.post("/api/user", async (req, res) => {
-  const { username, password, email, state, city, postalArea } = req.body;
+  const { name, username, password, email, state, city, postalArea } = req.body;
   const user = await usermodel.create({
+    name: name,
     username: username,
-    password: password,
     email: email,
+    password: password,
     state: state,
     city: city,
     postalArea: postalArea,
