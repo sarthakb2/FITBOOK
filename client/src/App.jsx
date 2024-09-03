@@ -1,12 +1,13 @@
 import React from 'react'
 import Signin from './components/Signin'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import Landing from './components/Landing'
 const App = () => {
 
   const router = createBrowserRouter([
     {
       path: '/',
-      element: <div>Home</div>
+      element: <Landing/>
      },
      {
       path: '/signin',
