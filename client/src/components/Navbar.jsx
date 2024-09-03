@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className="flex space-x-7">
           <div>
             <Link to="/" className="flex items-center py-4 px-2">
-              <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="Logo" className="h-8 w-auto mr-2" />
+              <img src="./src/assets/logo.png" alt="Logo" className="h-auto w-28 mr-2" />
             </Link>
           </div>
           </div>
@@ -30,9 +30,11 @@ const Navbar = () => {
           {token ? (
             <div className="hidden md:flex items-center space-x-3">
               <div>
-  <div className="hidden md:flex items-center space-x-1">
-    <Link to="/" className="py-4 px-2 text-gray-500 hover:text-gray-900 transition duration-300">Home</Link>
+  <div className="hidden md:flex mr-36 items-center space-x-1">
+    <Link to="/home" className="py-4 px-2 text-gray-500 hover:text-gray-900 transition duration-300">Home</Link>
     <Link to="/communities" className="py-4 px-2 text-gray-500 hover:text-gray-900 transition duration-300">Communities</Link>
+    <Link to="/shop" className="py-4 px-2 text-gray-500 hover:text-gray-900 transition duration-300">Shop</Link>
+    <Link to="/about" className="py-4 px-2 text-gray-500 hover:text-gray-900 transition duration-300">About Us</Link>
   </div>
 </div>
 <div className="hidden md:flex items-center space-x-3">
