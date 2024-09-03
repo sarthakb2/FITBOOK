@@ -7,8 +7,8 @@ router.get("/", (req, res) => {
 });
 
 router.post("/", async (req, res) => {
-  let { username, password } = req.body;
-  let user = await usermodel.findOne({ username: username });
+  let { email, password } = req.body;
+  let user = await usermodel.findOne({ email: email });
   if (user.password === password) {
     res.send("working");
   }

@@ -1,5 +1,7 @@
 import React from 'react'
 import Signin from './components/Signin'
+import Signup from './components/Signup'
+
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 const App = () => {
 
@@ -11,6 +13,10 @@ const App = () => {
      {
       path: '/signin',
       element: <Signin/>
+     },
+     {
+      path: '/signup',
+      element: <Signup/>
      },
   ])
   return (
