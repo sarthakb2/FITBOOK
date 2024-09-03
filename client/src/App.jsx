@@ -1,29 +1,19 @@
 import React from 'react'
 import Signin from './components/Signin'
-import Signup from './components/Signup'
-
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { createBrowserRouter, RouterProvider, BrowserRouter, Routes, Route } from 'react-router-dom'
+import Navbar from './components/Navbar'
 import Landing from './components/Landing'
 const App = () => {
 
-  const router = createBrowserRouter([
-    {
-      path: '/',
-      element: <Landing/>
-     },
-     {
-      path: '/signin',
-      element: <Signin/>
-     },
-     {
-      path: '/signup',
-      element: <Signup/>
-     },
-  ])
+  
   return (
-    <>
-  <RouterProvider router={router}/>
-    </>
+    <BrowserRouter>
+    <Navbar/>
+    <Routes>
+      <Route path='/' element={<Landing/>}/>
+      <Route path='/signin' element={<Signin/>}/>
+    </Routes>
+    </BrowserRouter>
   )
 }
 
