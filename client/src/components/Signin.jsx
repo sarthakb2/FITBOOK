@@ -12,8 +12,8 @@ const signin = () => {
             <h1 className=' text-blue-400 text-xs font-light mb-4'>
               Please Enter Your Details
             </h1>
-            <input type="text" placeholder='Username or Email' className='bg-white-800 border-2 text-black rounded-lg p-2 m-2 outline-none' />
-            <input type="text" placeholder='Password' className='bg-white-800 border-2 text-black rounded-lg p-2 m-2 outline-none' />
+            <input type="text" placeholder='Email' name='email' className='bg-white-800 border-2 text-black rounded-lg p-2 m-2 outline-none' />
+            <input type="text" placeholder='Password' name='password' className='bg-white-800 border-2 text-black rounded-lg p-2 m-2 outline-none' />
             <input type="submit" value="Submit" className=' mt- bg-blue-600 text-white p-2 m-2 rounded-lg' />
           </form>
           <h1 className='text-blue-400 text-xs font-medium mt-4'>New here? <Link className='text-red-400 text-xs font-semibold' to="/signup">Create An Account</Link></h1>

@@ -13,12 +13,12 @@ const signup = () => {
               Please Enter Your Details
             </h1>
 
-            <input type="text" placeholder='username' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
-            <input type="text" placeholder='password' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
-            <input type="text" placeholder='email' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
-            <input type="text" placeholder='state' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
-            <input type="text" placeholder='city' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
-            <input type="text" placeholder='postalArea' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 mb-5 outline-none' />
+            <input type="text" name='username' placeholder='username' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
+            <input type="text" name='username' placeholder='username' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
+            <input type="text" name='username' placeholder='username' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
+            <input type="text" name='username' placeholder='username' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
+            <input type="text" name='username' placeholder='username' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 outline-none' />
+            <input type="text"  name='username' placeholder='username' className='bg-white-800 border-2 w-80 text-black rounded-lg p-2 m-2 mb-5 outline-none' />
             <input type="submit" value="Submit" className=' cursor-pointer  bg-blue-800 text-white text-sm pl-2 pr-2 p-1 m-2 rounded-lg outline-none' />
           </form>
 
