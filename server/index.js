@@ -4,7 +4,7 @@ dotenv.config();
 import connectToDatabase from "./config/db.js";
 connectToDatabase();
 
-import wrapAsync from "./utils/wrapAsync.js";
+
 
 
 import signup from "./routes/signup.js" ;

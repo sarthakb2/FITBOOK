@@ -2,8 +2,6 @@ import express from "express";
 const router = express.Router();
 import usermodel from "../models/user.model.js";
 
-import wrapAsync from "../utils/wrapAsync.js";
-
 router.get("/", (req, res) => {
   res.send("SIGNIN PAGE");
 });
