@@ -16,9 +16,7 @@ router.post("/", async (req, res) => {
   if(user === null) return res.status(400).json("User not found");
   if (user.password === password) {
     console.log("Success");
-    let token = jwt.sign({ email: email }, "secret");
-    res.cookie("token", token);
-    return res.status(200).json("Done");
+    return res.status(200).json({ email: email });
   }
   else return res.status(400).json("Something went wrong");
 });

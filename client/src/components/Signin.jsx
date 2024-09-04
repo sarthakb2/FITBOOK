@@ -26,10 +26,11 @@ const signin = () => {
         },
         body: JSON.stringify(signinForm),
       });
-
+      const data = await response.json();
+      console.log(data);
       if (response.status === 200) {
         window.location.href = '/home'
-        Cookies.set('token', 'random', { expires: 15 });
+        Cookies.set('token',data.email,{ expires: 15 });
         console.log('Form submitted successfully');
      }else {
       window.location.href = '/signin'
