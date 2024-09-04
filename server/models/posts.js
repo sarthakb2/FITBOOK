@@ -4,9 +4,11 @@ const postSchema = new mongoose.Schema({
   post: {
     type: String,
     required: true,
+    trim: true,
   },
   image: {
     type: String,
+    trim: true,
   },
   user: [
     {
