@@ -39,7 +39,7 @@ const Navbar = () => {
 </div>
 <div className="hidden md:flex items-center space-x-3">
   <div className="relative">
-    <form action="/search" method="post">
+    <form action="http://localhost:3000/search" method="post">
     <input type="text" className="bg-gray-100 h-10 px-5 pr-10 rounded-full text-sm focus:outline-none" placeholder="Search" name='searchItem'/>
     <button type="submit" className="absolute right-0 top-0 mt-3 mr-4">
       <Search size={20} />

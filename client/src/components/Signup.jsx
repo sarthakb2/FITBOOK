@@ -5,7 +5,7 @@ const signup = () => {
     <>
       <div className=' w-full h-screen flex flex-col items-center mt-8 '>
         <div className='border-2 rounded-lg bg-white  border-slate-200 pr-20 pl-20 pt-4 mt-8 mb-8 flex flex-col  items-center'> 
-          <form className="flex flex-col justify-center items-center mb-2" action="" method="post">
+          <form className="flex flex-col justify-center items-center mb-2" action="http://localhost:3000/signup" method="post">
           <h1 className=' text-blue-800 text-3xl font-semibold mt-8 mb-2'>
               SIGN UP
             </h1>
