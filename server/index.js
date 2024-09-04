@@ -2,6 +2,7 @@ import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
 dotenv.config();
+import bodyParser from "body-parser";
 import connectToDatabase from "./config/db.js";
 connectToDatabase();
 
@@ -14,6 +15,7 @@ import businessSetup from "./routes/setupbusiness.js";
 const PORT = process.env.PORT || 3000;
 
 const app = express();
+app.use(bodyParser.json());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(
