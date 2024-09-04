@@ -37,10 +37,10 @@ const Post = () => {
     }
   };
   return (
-    <div className='flex items-center justify-center w-screen mt-4 flex-col'>
+    <div className='flex items-center justify-center w-screen mt-6 flex-col'>
         <div className='flex flex-col w-96 items-center'>
         <textarea
-        className="textarea border-2 border-grey-300 rounded-md p-2 outline-none"
+        className="textarea border-2 w-80 border-grey-300 rounded-md p-2 outline-none"
         onChange={handleTextChange}
         placeholder="What's on your mind?"
         cols={30}
