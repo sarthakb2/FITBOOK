@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const postSchema = new mongoose.Schema(
   {
-    post: {
+    text: {
       type: String,
       required: true,
       trim: true,
