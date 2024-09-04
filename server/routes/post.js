@@ -16,6 +16,7 @@ router.post("/", async (req, res) => {
     email: email,
   });
   user.posts.push(newPost);
+  post.user.push(user);
 
   await newPost.save();
   await user.save();

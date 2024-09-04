@@ -11,10 +11,10 @@ const postSchema = new mongoose.Schema(
       type: String,
       trim: true,
     },
-    user: {
+    user: [{
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
-    },
+    }],
   },
   { timestamps: true }
 );
