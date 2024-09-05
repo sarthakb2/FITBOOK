@@ -6,12 +6,6 @@ const CommunitySchema = new mongoose.Schema({
     required: true,
     trim: true,
   },
-  membersCount: {
-    type: Number,
-    required: true,
-    default: 0,
-    min: 0,
-  },
   city: {
     type: String,
     required: true,
@@ -22,10 +16,15 @@ const CommunitySchema = new mongoose.Schema({
     required: true,
     trim: true,
   },
-  postalCode: {
+  postalArea: {
     type: String,
     required: true,
     trim: true,
+  },
+  sport:{
+    type: String,
+     required: true,
+     trim: true,
   },
   users: [
     {

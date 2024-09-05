@@ -11,7 +11,7 @@ const About = () => {
         At <span className='font-bold'>FITBOOK</span> , we're dedicated to bringing you closer to your fitness goals ans sports passions. Whether you're an athlete, a fitness enthusiast, or someone just starting their wellness journey, our platform is designed to inspire, educate, and supports your every step of the way.
       </p>
     </div>
-    <div>
+    <div className='mb-24'>
     <h1 className="text-4xl text-center font-bold mb-8 text-blue-800">Contact Us</h1>
     <div className="flex justify-center items-center">
         <div className='mb-8'>
@@ -39,7 +39,7 @@ const About = () => {
             </span>
             </div>
         </div>
-        <div></div>
+        
     </div>
     </div>
     

@@ -22,7 +22,7 @@ const Post = () => {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify(signinForm),
+        body: JSON.stringify(post),
       });
       if (response.status === 201) {
         window.location.href = '/home'
@@ -37,7 +37,7 @@ const Post = () => {
     }
   };
   return (
-    <div className='flex items-center justify-center w-screen mt-6 flex-col'>
+    <div className='flex items-center  justify-center w-screen mt-6 flex-col'>
         <div className='flex flex-col w-96 items-center'>
         <textarea
         className="textarea border-2 w-80 border-grey-300 rounded-md p-2 outline-none"

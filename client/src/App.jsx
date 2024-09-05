@@ -8,6 +8,8 @@ import Signup from './components/Signup'
 import About from './components/About'
 import Home from './components/Home'
 import Logout from './components/Logout'
+import Communities from './components/Community'
+import Communitiesmain from './components/Communitiesmain'
 const App = () => {
 
   
@@ -21,6 +23,8 @@ const App = () => {
       <Route path='/about' element={<About/>}/>
       <Route path='/home' element={<Home/>}/>
       <Route path='/logout' element={<Logout/>}/>
+      <Route path='/createcommunities' element={<Communities/>}/>
+      <Route path='/communities' element={<Communitiesmain/>}/>
     </Routes>
     <Footer/>
     </BrowserRouter>

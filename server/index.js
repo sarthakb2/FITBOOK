@@ -10,6 +10,7 @@ import signup from "./routes/signup.js";
 import signin from "./routes/signin.js";
 import search from "./routes/search.js";
 import businessSetup from "./routes/setupbusiness.js";
+import community from "./routes/community.js";
 import post from "./routes/post.js";
 
 
@@ -37,6 +38,7 @@ app.use("/signin", signin);
 app.use("/search", search);
 app.use("/businessSetup", businessSetup)
 app.use("/post", post)
+app.use("/community", community)
 
 app.listen(PORT, () => {
   console.log("Server Started");

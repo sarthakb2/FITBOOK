@@ -12,6 +12,7 @@ const user = mongoose.Schema({
     required: true,
     unique: true,
     trim: true,
+    default : "anon"
   },
   email: {
     type: String,
@@ -44,7 +45,7 @@ const user = mongoose.Schema({
   posts: [
     {
       type: mongoose.Schema.Types.ObjectId,
-      ref: "post",
+      ref: "Post",
     },
   ],
 });

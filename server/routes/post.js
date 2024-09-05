@@ -1,10 +1,24 @@
-import express from "express";
+import express, { response, text } from "express";
 const router = express.Router();
 import postModel from "../models/post.model.js";
 import usermodel from "../models/user.model.js";
 
-router.get("/", (req, res) => {
-  res.send("GET POSTS");
+router.get("/", async (req, res) => {
+  const posts = await postModel.find().populate("user");
+  // console.log(posts);
+  const postArray =[];
+   posts.map(async (post) => {
+    const username = post.user[0].username;
+  const postObj = {
+    text: post.text,
+    image: post.image,
+    username : username
+  } 
+  postArray.push(postObj); 
+  })
+  return res.status(200).json(
+    postArray
+  );
 });
 
 router.post("/", async (req, res) => {
