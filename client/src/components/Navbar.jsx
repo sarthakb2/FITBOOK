@@ -64,7 +64,7 @@ const Navbar = () => {
             </div>
           ) : (
             <div className="hidden md:flex items-center space-x-3">
-              <Link to="/signin" className="text-gray-500 hover:text-gray-900 px-4 py-2">Login/Signup</Link>
+              <Link to="/signin" className="text-white bg-blue-600 rounded-2xl hover:bg-black px-4 py-2">Login/Signup</Link>
             </div>
           )}
           
